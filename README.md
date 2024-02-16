@@ -43,8 +43,8 @@ from tqdm import tqdm
 
 请注意，当前程序只能处理jpg文件，如果您想处理其他文件，请尝试手动修改程序代码。
 
-* The default font is called "STZHONGS.TTF" and its default path was the current folder. You can manually add this font file or convert to a certain font you want. Please note that this project is open source and does not supply or infringe on the copyright of any font. 
+* The default font in the code is called "STZHONGS.TTF" and its default path was the current folder. You can manually add this font file or convert to a certain font you want. Please note that this project is open source and does not supply or infringe on the copyright of any font. 
 
-程序代码中使用的字体是STZHONGS.TTF并默认存放在当前文件夹下。你可以手动添加这一字体或改成其他字体。请注意，这个项目是开源的，而且并不提供和侵犯任何字体的版权。
+程序代码中使用的字体是STZHONGS.TTF并默认存放在当前文件夹下。你需要手动添加这一字体或改成其他字体。请注意，这个项目是开源的，而且并不提供和侵犯任何字体的版权。
 
 
