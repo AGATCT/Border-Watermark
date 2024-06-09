@@ -18,7 +18,7 @@ Various sizes are supported.
 
 ![1708049512689](image/README/1708049512689.jpg)
 
-![1708049630434](image/README/1708049630434.jpg){:height="200px"}
+![1708049630434](image/README/1708049630434.jpg)
 
 ## How to execute 运行说明
 
